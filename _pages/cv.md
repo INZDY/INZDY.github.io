@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng in Computer Engineering, King Mongkut's University of Technology Thonburi, expected graduation 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **June - August 2024: Test Engineer Intern**
+  * Seagate Technology (Thailand) Co., Ltd.
+  * Develop warehouse management web application.
+  * Created detailed documentation to assist future developers in maintaining the software.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* React
+* Node.js
+* Flutter
+* Deployment
+* Git
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Extra Cirricular Activities
+* Google Cyber Security Certificate, completed November 2024
+* Google Data Analytics Certificate, completed May 2023
+* Pre-freshy 2022 (Newcomers’ pre-entry activity), June 2022
+  * Worked as organizer and cirriculum designer
+  * Created and managed teaching materials
+  * Assisted in teaching sessions’ Q&A and technical issues
