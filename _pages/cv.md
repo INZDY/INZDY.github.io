@@ -17,7 +17,7 @@ Work experience
 ======
 * **June - August 2024: Test Engineer Intern**
   * Seagate Technology (Thailand) Co., Ltd.
-  * Develop warehouse management web application
+  * Develop warehouse management web application.
   * Created detailed documentation to assist future developers in maintaining the software.
   
 Skills
