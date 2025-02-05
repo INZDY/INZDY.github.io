@@ -21,7 +21,7 @@ repository               : "INZDY/INZDY.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Aphivit Jirarattanametharkorn"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering Student at King Mongkut's University of Technology Thonburi"
